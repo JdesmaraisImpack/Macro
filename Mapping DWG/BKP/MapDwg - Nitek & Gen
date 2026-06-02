@@ -1,0 +1,16 @@
+[Version]
+SW990001
+
+[Layers]
+0 = 0, 1
+CenterMarks = 0, 1
+BendLineUp = 0, 1
+BendLineDown = 0, 1
+
+[Entities]
+Center Marks [4] = 6, BYLAYER, CenterMarks
+Bend line up [31] = 30, BYLAYER, BendLineUp
+Bend line down [32] = 1, 2, BendLineDown
+
+[Colors]
+

@@ -1,0 +1,222 @@
+REGEDIT4
+;SolidWorks Settings Wizard
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros]
+"Macro Count"=dword:0000000d
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\01 - Macro Folder]
+"Command Offset"=dword:00000007
+"Project"="MarkingGeneratorMainModule"
+"MacroMethod"="main"
+"ToolTip"="MarkingGenerator"
+"Prompt Msg"="C:\\Users\\rdesmarais\\OneDrive - Conception Impack\\Share\\ProjetsPerso\\_ProductionDrawing\\CD2516-01 (2025-07-19) RD\\MarkingGenerator.swp"
+"Source Path"="C:\\Users\\rdesmarais\\OneDrive - Conception Impack\\Share\\ProjetsPerso\\_ProductionDrawing\\CD2516-01 (2025-07-19) RD\\MarkingGenerator.swp"
+"Bitmap Path"=""
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\02 - Macro Folder]
+"Command Offset"=dword:00000003
+"Project"="R01202604_Propriétés"
+"MacroMethod"="main"
+"ToolTip"="R01202604_Propriétés"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202604_Propriétés.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202604_Propriétés.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\Propriétés.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\03 - Macro Folder]
+"Command Offset"=dword:00000006
+"Project"="SaveAsPDF"
+"MacroMethod"="main"
+"ToolTip"="SaveAsPDF v2"
+"Prompt Msg"="C:\\Users\\dciborowski\\Conception Impack\\Mecanique - Documents\\Macros\\SaveAsPDF v2.swp"
+"Source Path"="C:\\Users\\dciborowski\\Conception Impack\\Mecanique - Documents\\Macros\\SaveAsPDF v2.swp"
+"Bitmap Path"="C:\\Users\\dciborowski\\Conception Impack\\Mecanique - Documents\\Macros\\Icons\\saveaspdf.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\04 - Macro Folder]
+"Command Offset"=dword:00000005
+"Project"="R01202402_Bounding"
+"MacroMethod"="Main"
+"ToolTip"="R01202402_Bounding"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202402_Bounding.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202402_Bounding.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\Bounding.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\05 - Macro Folder]
+"Command Offset"=dword:00000004
+"Project"="R01202603_Notes2D"
+"MacroMethod"="Main"
+"ToolTip"="R01202603_Notes2D"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202603_Notes2D.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202603_Notes2D.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\2D.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\06 - Macro Folder]
+"Command Offset"=dword:00000008
+"Project"="Mise_à_jour_des_cartouches"
+"MacroMethod"="main"
+"ToolTip"="2018 Mise à jour des cartouches"
+"Prompt Msg"="2018 Mise à jour des cartouches.swp"
+"Source Path"="C:\\Users\\dCiborowski\\Conception Impack\\Mecanique - Documents\\Macros\\2018 Mise à jour des cartouches.swp"
+"Bitmap Path"="C:\\Users\\dciborowski\\Conception Impack\\Mecanique - Documents\\Macros\\Icons\\cartouche.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\07 - Macro Folder]
+"Command Offset"=dword:00000002
+"Project"="R01202402_ApplyProp"
+"MacroMethod"="Main"
+"ToolTip"="R01202402_ApplyProp"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202402_ApplyProp.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202402_ApplyProp.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\ApplyProp.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\08 - Macro Folder]
+"Command Offset"=dword:00000001
+"Project"="R01202402_IsoView"
+"MacroMethod"="Main"
+"ToolTip"="R01202402_IsoView"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202402_IsoView.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202402_IsoView.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\IsoView.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\09 - Macro Folder]
+"Command Offset"=dword:00000000
+"Project"="R01202512_Projet"
+"MacroMethod"="main"
+"ToolTip"="R01202512_Projet"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202512_Projet.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202512_Projet.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\Projet.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\10 - Macro Folder]
+"Command Offset"=dword:0000000e
+"Project"="ISOMETRIC_REBUILD_SAVE_CL"
+"MacroMethod"="main"
+"ToolTip"="ISOMETRIC_REBUILD_SAVE_CLOSE"
+"Prompt Msg"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS\\macros\\ISOMETRIC_REBUILD_SAVE_CLOSE.swp"
+"Source Path"="C:\\Program Files\\SOLIDWORKS Corp\\SOLIDWORKS\\macros\\ISOMETRIC_REBUILD_SAVE_CLOSE.swp"
+"Bitmap Path"=""
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\11 - Macro Folder]
+"Command Offset"=dword:0000000d
+"Project"="R01202512_NewPart"
+"MacroMethod"="MAIN"
+"ToolTip"="R01202512_NewPart"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202512_NewPart.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202512_NewPart.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\NewPart.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\12 - Macro Folder]
+"Command Offset"=dword:0000000b
+"Project"="R03202403_SpacerConfig"
+"MacroMethod"="ExecuteMacro"
+"ToolTip"="R03202403_SpacerConfig"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R03202403_SpacerConfig.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R03202403_SpacerConfig.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\SpacerConfig.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Defined Macros\13 - Macro Folder]
+"Command Offset"=dword:0000000a
+"Project"="R01202402_MajCartouche1"
+"MacroMethod"="main"
+"ToolTip"="R01202402_MajCartouche"
+"Prompt Msg"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202402_MajCartouche.swp"
+"Source Path"="Z:\\Fichiers communs\\Programmes\\Macros\\R01202402_MajCartouche.swp"
+"Bitmap Path"="Z:\\Fichiers communs\\Programmes\\Macros\\Icons\\MajCartouche.bmp"
+"Mouse Gesture Part"=dword:00000000
+"Mouse Gesture Assembly"=dword:00000000
+"Mouse Gesture Drawing"=dword:00000000
+"Mouse Gesture Sketch"=dword:00000000
+"Accelerator"=""
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\General]
+"uiMacroToolBar_c"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\General-Bar11]
+"BarID"=dword:0000e808
+"XPos"=dword:000003f3
+"MRUWidth"=dword:00000073
+"Docking"=dword:00000001
+"MRUDockID"=dword:0000e81b
+"MRUDockLeftPos"=dword:000003f3
+"MRUDockTopPos"=dword:ffffffff
+"MRUDockRightPos"=dword:000004f6
+"MRUDockBottomPos"=dword:00000021
+"MRUFloatStyle"=dword:00002000
+"MRUFloatXPos"=dword:fffffffc
+"MRUFloatYPos"=dword:fffffffe
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\Toolbars]
+"uiMacroToolBar_c"=hex: 74,83,00,00,6a,83,00,00,67,83,00,00,68,83,00,00,72,83,00,00,6c,83,00,00,71,83,00,00,6b,83,00,00,69,83,00,00,
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\Toolbars\AssemblyTool]
+"uiMacroToolBar_c"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\Toolbars\CustomFlyouts]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\Toolbars\CustomPopup]
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\Toolbars\DrawingTool]
+"uiMacroToolBar_c"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\Toolbars\PartTool]
+"uiMacroToolBar_c"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\SolidWorks\SOLIDWORKS 2023\User Interface\Toolbars\ToolbarChangesOnUpgrade]

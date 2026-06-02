@@ -1,0 +1,2 @@
+
+Pour ajouter de nouvelles colonnes modifier ce Template BOM-IMPACK.sldbomtbt

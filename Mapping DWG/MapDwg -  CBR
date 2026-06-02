@@ -1,0 +1,22 @@
+[Version]
+SW990001
+
+[Layers]
+0 = 0, 1
+YELLOW = 2, 1
+ROUGE = 10, 1
+
+[Entities]
+Bend line down [32] = BYLAYER, BYLAYER, ROUGE
+Bend line up [31] = BYLAYER, BYLAYER, YELLOW
+Center Marks [4] = BYLAYER, BYLAYER, YELLOW
+Center Lines [14] = BYLAYER, BYLAYER, YELLOW
+Notes [2] = BYLAYER, BYLAYER, YELLOW
+
+[Colors]
+0 -> 0
+65535 -> 2
+33023 -> 2
+16711935 -> 2
+49151 -> 0
+

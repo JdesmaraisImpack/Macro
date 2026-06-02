@@ -1,0 +1,22 @@
+[Version]
+SW990001
+
+[Layers]
+0 = 0, 1
+ORANGE = 30, 1
+ROUGE = 10, 1
+MAGENTA = 6, 1
+VERT = 96, 1
+
+[Entities]
+Bend line down [32] = BYLAYER, BYLAYER, ROUGE
+Bend line up [31] = BYLAYER, BYLAYER, ORANGE
+Center Marks [4] = BYLAYER, BYLAYER, ORANGE
+Center Lines [14] = BYLAYER, BYLAYER, ORANGE
+
+[Colors]
+0 -> 0
+65535 -> 30
+49151 -> 30
+16711935 -> 30
+
